@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bea762d1-9e50-4f25-9209-84267b9304e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/helloworld/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld/contact.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld/lib/Dart-S08/snippet.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,17 +73,26 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\DART\DART\helloworld" />
+      <recent name="D:\DART\DART\helloworld\lib\Dart-S08\s2" />
+      <recent name="D:\DART\DART\helloworld\lib\Dart-S08\s1" />
+      <recent name="D:\DART\DART\helloworld\lib\Dart-S08\product_json" />
+      <recent name="D:\DART\DART\helloworld\lib\Dart-S08\dart" />
+      <recent name="D:\DART\DART\helloworld\lib\Dart-S08\test1" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.snippet-6.dart">
-    <configuration name="snippet-2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-2.dart" />
+  <component name="RunManager" selected="Dart Command Line App.snippet-3.dart (1)">
+    <configuration name="snippet-3.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S08/s1/snippet-3.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
     <configuration name="snippet-3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-3.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snippet-3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S08/test1/snippet-3.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
@@ -103,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.snippet-3.dart (1)" />
+        <item itemvalue="Dart Command Line App.snippet-3.dart (1)" />
         <item itemvalue="Dart Command Line App.snippet-6.dart" />
         <item itemvalue="Dart Command Line App.snippet-5.dart" />
         <item itemvalue="Dart Command Line App.snippet-4.dart" />
-        <item itemvalue="Dart Command Line App.snippet-3.dart" />
-        <item itemvalue="Dart Command Line App.snippet-2.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +132,8 @@
       <workItem from="1692777580376" duration="6681000" />
       <workItem from="1692795684474" duration="5216000" />
       <workItem from="1692880282435" duration="21000" />
-      <workItem from="1692954512239" duration="387000" />
+      <workItem from="1692954512239" duration="3461000" />
+      <workItem from="1692968400719" duration="414000" />
     </task>
     <servers />
   </component>
