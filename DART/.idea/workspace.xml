@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bea762d1-9e50-4f25-9209-84267b9304e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/helloworld/names.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,58 +51,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/hotel",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "dart.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/hotel&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Dart Command Line App.09-break.dart">
-    <configuration name="03-solution-for-loops.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/01-Dart-Control-Flow/03-solution-for-loops.dart" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DART\DART\helloworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.snippet-6.dart">
+    <configuration name="snippet-2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-2.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
-    <configuration name="06-exercise-while-loop.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/01-Dart-Control-Flow/06-exercise-while-loop.dart" />
+    <configuration name="snippet-3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-3.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
-    <configuration name="06-while-loop.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/01-Dart-Control-Flow/06-while-loop.dart" />
+    <configuration name="snippet-4.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-4.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
-    <configuration name="08-solution-exercise-loop.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/01-Dart-Control-Flow/08-solution-exercise-loop.dart" />
+    <configuration name="snippet-5.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-5.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
-    <configuration name="09-break.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/01-Dart-Control-Flow/09-break.dart" />
+    <configuration name="snippet-6.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/helloworld/lib/Dart-S06/Asynchronous/snippet-6.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/helloworld" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.09-break.dart" />
-        <item itemvalue="Dart Command Line App.08-solution-exercise-loop.dart" />
-        <item itemvalue="Dart Command Line App.06-while-loop.dart" />
-        <item itemvalue="Dart Command Line App.06-exercise-while-loop.dart" />
-        <item itemvalue="Dart Command Line App.03-solution-for-loops.dart" />
+        <item itemvalue="Dart Command Line App.snippet-6.dart" />
+        <item itemvalue="Dart Command Line App.snippet-5.dart" />
+        <item itemvalue="Dart Command Line App.snippet-4.dart" />
+        <item itemvalue="Dart Command Line App.snippet-3.dart" />
+        <item itemvalue="Dart Command Line App.snippet-2.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +122,7 @@
       <workItem from="1692777580376" duration="6681000" />
       <workItem from="1692795684474" duration="5216000" />
       <workItem from="1692880282435" duration="21000" />
+      <workItem from="1692954512239" duration="387000" />
     </task>
     <servers />
   </component>
