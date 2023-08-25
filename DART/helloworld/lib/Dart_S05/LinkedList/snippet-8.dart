@@ -1,16 +1,24 @@
 import 'dart:collection';
-class Items extends LinkedListEntry<Items> {
+ base class Item extends LinkedListEntry<Item> {
   final int id;
   final String name;
-  Items(this.id, this.name);
+  Item(this.id, this.name);
   @override
   String toString(){
     return '$id : $name';
   }
 }
 void main() {
-      final linkedList = LinkedList<Items>();
-      linkedList.addAll(
-      [Items(1, 'jon'), Items(2, 'natalia'), Items(3, 'dina')]);
-    print(linkedList);
+      final linkedList = LinkedList<Item>();
+      final item1 = Item(1,'Apple');
+      final item2 = Item(2,'Banana');
+
+      linkedList.add(item1);
+      linkedList.add(item2);
+
+      for (var item in linkedList){
+        print(item);
+      }
+
+
 }

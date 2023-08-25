@@ -1,4 +1,5 @@
-// Linked
+// LinkedHashMap
+
 import 'dart:collection';
 void main() {
   var l1 = new LinkedHashMap();
